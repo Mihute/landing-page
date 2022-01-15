@@ -132,6 +132,10 @@ a {
   font-size: 18px;
 }
 
+.right a:hover{
+  border-bottom: 1px solid white;
+}
+
 ul {
   list-style-type: none;
   display: flex;
